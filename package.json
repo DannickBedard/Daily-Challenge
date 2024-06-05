@@ -1,0 +1,12 @@
+{
+  "name": "daily-challenge",
+  "version": "1.0.0",
+  "description": "All challenges does into the challenges directory.",
+  "main": "index.js",
+  "scripts": {
+    "challenge1": "node ./challenges/challenge1-easy/challenge1.js",
+    "challenge1v2": "node ./challenges/challenge1-easy/challenge1_v2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
