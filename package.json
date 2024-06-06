@@ -1,13 +1,13 @@
 {
   "name": "daily-challenge",
   "version": "1.0.0",
-  "description": "All challenges does into the challenges directory.",
+  "description": "Daily coding challenges",
   "main": "index.js",
   "scripts": {
     "challenge1": "node ./challenges/challenge1/challenge1.js",
     "challenge1v2": "node ./challenges/challenge1/challenge1v2.js",
     "challenge2": "node ./challenges/challenge2/challenge2.js"
   },
-  "author": "",
+  "author": "Dannick Bédard",
   "license": "ISC"
 }
